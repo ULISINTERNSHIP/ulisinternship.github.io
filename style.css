@@ -297,7 +297,7 @@ h3{
 
 
 /*----- cong viec -----*/
-.sub-header1{
+.sub-headera{
     height: 45vh;
     width: 100%;
     background-image: linear-gradient(rgba(76, 77, 80, 0.548),rgba(76, 77, 80, 0.548)),url(images/10.jpg);
@@ -306,7 +306,7 @@ h3{
     text-align: center;
     color: #fff;
 }
-.sub-header h1{
+.sub-headera h1{
     margin-top: -50px;
 }
 .row1{
@@ -410,7 +410,16 @@ h3{
     text-align: center;
     padding-top: 80px;
 }
-.sub-header h1{
+.sub-headerb{
+    height: 45vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(76, 77, 80, 0.548),rgba(76, 77, 80, 0.548)),url(images/10.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+.sub-headerb h1{
     margin-top: -50px;
 }
 .grid{
