@@ -61,6 +61,8 @@ nav img{
 }
 .text-box h1{
     font-size: 62px;
+    text-align: center;
+    align-content: center;
 }
 .text-box p{
     margin: 10px 0 40px;
